@@ -1,0 +1,84 @@
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#FFFFFF"
+        android:orientation="vertical" >
+
+        <Button
+            android:id="@+id/chuong_1"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#1F8A70"
+            android:text="Những quy định chung"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_2"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#BEDB39"
+            android:text="Quy tắc giao thông đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_3"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#FFE11A"
+            android:text="Kết cấu hạ tầng giao thông đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_4"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#1F8A70"
+            android:text="Phương tiện tham gia giao thông đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_5"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#BEDB39"
+            android:text="Người điều khiển phương tiện tham gia giao thông đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_6"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#FFE11A"
+            android:text="Vận tải đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_7"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#1F8A70"
+            android:text="Quản lý nhà nước về giao thông đường bộ"
+            android:textColor="#000000" />
+
+        <Button
+            android:id="@+id/chuong_8"
+            android:layout_width="fill_parent"
+            android:layout_height="100dp"
+            android:layout_margin="20dp"
+            android:background="#BEDB39"
+            android:text="Điều khoản thi hành"
+            android:textColor="#000000" />
+    </LinearLayout>
+
+</ScrollView>

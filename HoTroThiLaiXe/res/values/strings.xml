@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">HoTroThiLaiXe</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_traffic_signs">TrafficSigns</string>
+    <string name="title_activity_sa_hinh">SaHinh</string>
+    <string name="title_activity_info_license">InfoLicense</string>
+    <string name="title_activity_entertainment">Entertainment</string>
+    <string name="title_activity_contact">Contact</string>
+    <string name="title_activity_test_place">TestPlace</string>
+    <string name="title_activity_question_test">QuestionTest</string>
+    <string name="title_activity_traffic_sign_ban">TrafficSignBan</string>
+    <string name="title_activity_traffic_signs_instructions">TrafficSignsInstructions</string>
+    <string name="title_activity_traffic_signs_command">TrafficSignsCommand</string>
+    <string name="title_activity_rule_infomation">RuleInfomation</string>
+    <string name="title_activity_result_test">ResultTestActivity</string>
+
+</resources>
